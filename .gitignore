@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+/dist/
+/previews/
+*.exe
+*.test
+*.log
+/assets/backup-before-*/
+/assets/exe-icon-check.png
+/tools/firewall-repair-result.json
+/tools/repair-lan-firewall.ps1
+.env
+.env.*
+!.env.example
+*.pem
+*.key

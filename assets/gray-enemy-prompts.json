@@ -1,0 +1,20 @@
+[
+  {
+    "name": "enemy_a",
+    "tool": "built-in image_gen",
+    "prompt": "Extract ONLY the LEFT normal tank from this approved comparison board into ONE standalone game sprite. Preserve its exact gray-white armor, dark tracks, simple pixel geometry and shading. True overhead view, barrel pointing UP. Genuinely transparent RGBA background, no black matte, no text, labels or other tanks. Complete barrel and tracks, centered, minimal 5 percent transparent margins. Same approved design, not a redesign.",
+    "source": "exec-c5c5c448-f7d8-4647-a0f1-e60c3cdf58b2.png"
+  },
+  {
+    "name": "enemy_b",
+    "tool": "built-in image_gen",
+    "prompt": "Extract ONLY the RIGHT narrow fast-moving tank from this approved comparison board into ONE standalone game sprite. Preserve its exact gray-white armor, dark tracks, simple pixel geometry and shading. True overhead view, barrel pointing UP. Genuinely transparent RGBA background, no black matte, no text, labels or other tanks. Complete barrel and tracks, centered, minimal 5 percent transparent margins. Same approved design, not a redesign.",
+    "source": "exec-f9493e9e-4a5e-4c07-80e1-66dd19f87bd1.png"
+  },
+  {
+    "name": "enemy_c",
+    "tool": "built-in image_gen",
+    "prompt": "Extract ONLY the CENTER fast-firing tank with thick banded cannon from this approved comparison board into ONE standalone game sprite. Preserve its exact gray-white armor, dark tracks, simple pixel geometry and shading. True overhead view, barrel pointing UP. Genuinely transparent RGBA background, no black matte, no text, labels or other tanks. Complete barrel and tracks, centered, minimal 5 percent transparent margins. Same approved design, not a redesign.",
+    "source": "exec-a0daf659-bc19-4935-ba79-bca69b84633f.png"
+  }
+]

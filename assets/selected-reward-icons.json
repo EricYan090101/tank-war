@@ -1,0 +1,36 @@
+{
+  "selection": "AAABBC",
+  "source": "Previously generated built-in image_gen previews, copied unchanged",
+  "icons": [
+    [
+      "bonus_star",
+      "A",
+      "exec-3bfacc03-a411-4212-8d4d-faae82d1ec16.png"
+    ],
+    [
+      "bonus_helmet",
+      "A",
+      "exec-ffe92558-b1ae-4e37-a1fb-869e80b268ab.png"
+    ],
+    [
+      "bonus_shovel",
+      "A",
+      "exec-31227a24-d8f3-4118-9ee8-a41b307616bb.png"
+    ],
+    [
+      "bonus_grenade",
+      "B",
+      "exec-06f98b05-0a94-4e42-a790-79f6a524a2db.png"
+    ],
+    [
+      "bonus_clock",
+      "B",
+      "exec-daf6d421-359a-4cc8-9e26-f8df3346ceb6.png"
+    ],
+    [
+      "bonus_tank",
+      "C",
+      "exec-e73de0a3-f71a-4251-a76d-fd5c8fcce4f2.png"
+    ]
+  ]
+}

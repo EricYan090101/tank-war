@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    [
+      "brick",
+      "exec-fb38dd0c-3b13-4562-87ef-ed855f0606ef.png",
+      "Extract the LEFT brick material into a standalone square game texture. Preserve terracotta raised bevels, dark recessed mortar and dimensional style. Only TWO broad staggered rows of bricks so readable at 16px. Fill entire canvas edge to edge, no black padding, no labels, no other panels. Orthographic top-down, opaque seamless terrain texture."
+    ],
+    [
+      "stone",
+      "exec-fb38dd0c-3b13-4562-87ef-ed855f0606ef.png",
+      "Extract the CENTER stone material into a standalone square game tile. ONE large cool gray block, raised beveled edges, dark thin joints around perimeter, sparse restrained crack. Preserve dimensional pixel style. Entire canvas filled edge to edge, no black padding, no labels, no other panels. Orthographic top-down, opaque."
+    ],
+    [
+      "water",
+      "exec-694298ad-9f39-474d-b7fd-4e0d005f8134.png",
+      "Adapt this approved blue water image to a standalone square terrain material. Preserve central wave ridges, blue palette and dimensional pixel-art. Fill canvas with continuous water edge to edge, no black padding and no text. This is the repeatable INTERIOR texture; game rendering will feather only the shoreline into black to preserve the approved soft boundary without black seams between adjacent water tiles. Seamless edges, opaque. No shore rocks or foam borders."
+    ]
+  ],
+  "note": "Water outer-bank feathering is applied in game/water_art.go; texture remains continuous inside joined water cells."
+}

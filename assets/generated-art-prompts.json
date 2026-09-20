@@ -1,0 +1,32 @@
+[
+  [
+    "water",
+    "exec-47de6367-b93c-46e6-95a0-ce933b2cc2b8.png",
+    "Extract/adapt ONLY the upper-left continuous lake-blue water from this approved concept board as one square seamless game terrain texture. Fill the entire square edge to edge with water, opaque, no outside background or padding. Base #4F9DB8. Sparse broad horizontal ripples; preserve the approved pixel material. No tile grid, no text, no swatches, no other materials. Simplify to read at 32x32 game pixels. Only water."
+  ],
+  [
+    "brick",
+    "exec-47de6367-b93c-46e6-95a0-ce933b2cc2b8.png",
+    "Extract/adapt ONLY the upper-right terracotta brick texture as one square seamless top-down game terrain tile, edge to edge opaque. Preserve approved color #B87856 and block style. Show just TWO staggered courses of broad bricks per square, dark mortar, sparse chips, no tiny noise. Must read when reduced to 16x16 pixels. No labels, no swatches, no framing, no other objects, no black outer padding, no perspective. Only the brick tile."
+  ],
+  [
+    "stone",
+    "exec-47de6367-b93c-46e6-95a0-ce933b2cc2b8.png",
+    "Extract/adapt ONLY the lower-left gray stone wall texture as one square seamless top-down game terrain tile. Fill full square edge to edge, opaque. Preserve approved color #929DA6 and stone style, show ONE large block with thin dark joints along square borders, minimal facets and one restrained crack. Readable at 16x16 pixels. No labels, swatches, perspective, other materials or external black padding. Only stone."
+  ],
+  [
+    "bush",
+    "exec-47de6367-b93c-46e6-95a0-ce933b2cc2b8.png",
+    "Extract/adapt ONLY lower-right dense gray-purple smoke as a single seamless square top-down 2D game overlay texture on a genuinely transparent RGBA canvas. Preserve color #746D86 and clustered pixel smoke character. Remove tank entirely. No black backdrop baked into smoke. Broad connected billows cover the WHOLE tile edge to edge, allowing seamless neighboring smoke tiles; smoke predominantly dense, only slight transparency. Aim center alpha ~0.88, edges not completely empty; avoid a tiny isolated cloud. No checkerboard drawn into image, no labels, no swatches, no grass, no other objects, no tank or yellow remnants. Low-detail pixel artwork readable at 32x32."
+  ],
+  [
+    "player_yellow",
+    "exec-fbbcb3aa-60d4-4e97-817b-3be244cf8ff8.png",
+    "Extract ONLY the approved YELLOW tank as ONE clean game sprite, true top-down barrel pointing straight up, square genuinely transparent RGBA canvas. Keep the tank's geometry and simple pixel-art design identical to the reference, yellow #E6B84F with dark gray tracks. Centered with minimal margins, the complete barrel and tracks visible, silhouette fills roughly 90% of width and height. No glow, no black background, no text, no duplicate mini version, no green tank. Crisp low detail readable at 32x32 pixels. Transparent pixels outside tank."
+  ],
+  [
+    "player_green",
+    "exec-fbbcb3aa-60d4-4e97-817b-3be244cf8ff8.png",
+    "Extract ONLY the approved GREEN tank as ONE clean game sprite, true top-down barrel pointing straight up, square genuinely transparent RGBA canvas. Keep the tank's geometry and simple pixel-art design identical to the reference and yellow version, mint green #69BFA0 with dark gray tracks. Centered with minimal margins, complete barrel and tracks visible, silhouette fills roughly 90% of width and height. No glow, no black background, no text, no duplicate mini version, no yellow tank. Crisp low detail readable at 32x32 pixels. Transparent pixels outside tank."
+  ]
+]

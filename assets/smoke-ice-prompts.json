@@ -1,0 +1,15 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    [
+      "bush",
+      "exec-66d104d9-cbdc-4b9d-9c2a-b415628acfb0.png",
+      "Edit this approved gray-purple smoke into a game overlay on genuinely transparent RGBA background. Preserve billowy realistic wisps and soft irregular feathered outline, broad full cloud, muted gray-purple color. Remove ONLY the black backdrop, keep smoke mostly dense with slight transparency in center and wispy gradually transparent outer edges. No black matte, no checkerboard baked in, no frame, no text, no hard square edge. Complete cloud visible with small transparent margin."
+    ],
+    [
+      "ice",
+      "exec-01a9b504-ad3e-490e-8f48-8a9e3b4097d2.png",
+      "Extract/adapt the ice and snow terrain of this approved preview into a standalone square seamless game terrain texture. Preserve pale ice blue #A6CEDB, broad cracks and sparse snow patches, restrained pixel art. Fill canvas edge to edge with ice, no black margin, no captions or color swatches, no other materials. Readable when a full texture spans 64 game pixels. Opaque top-down."
+    ]
+  ]
+}
